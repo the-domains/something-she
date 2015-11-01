@@ -1,0 +1,23 @@
+name: Something She
+favicon: null
+layout_spectrum: 0.7018891237676144
+typography_spectrum: 0.7821553882677108
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.050230970373377204
+  lightness: 0.3394829947501421
+  saturation: 0.20063507999293506
+  rhythmicContrast: 0.5130470648873597
+purpose: []
